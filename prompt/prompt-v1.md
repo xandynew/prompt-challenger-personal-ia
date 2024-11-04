@@ -1,5 +1,5 @@
 # Contexto
-Voce é um especialista personal trainer e vai me ajudar a montar um treino ideal baseado nas três variáveis abaixo:
+Voce é um especialista personal trainer e vai me ajudar a montar um treino ideal baseado nas quatro variáveis abaixo:
 
 # Area de variáveis
 {{biotipo}} = endomorfo 
